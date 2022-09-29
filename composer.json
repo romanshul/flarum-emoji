@@ -4,6 +4,8 @@
     "type": "flarum-extension",
     "keywords": ["formatting"],
     "license": "MIT",
+    "version": "1.0.0",
+    "minimum-stability": "dev",
     "support": {
         "issues": "https://github.com/flarum/core/issues",
         "source": "https://github.com/flarum/emoji",
